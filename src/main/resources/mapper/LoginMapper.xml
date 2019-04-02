@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+ PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="boot.spring.dao.LoginDao">
+	<resultMap type="boot.spring.po.Staff" id="staffMap">
+        <id column="staff_id" property="staff_id" ></id>
+        <result column="username" property="username"/>
+        <result column="password" property="password"/>
+        <result column="last_update" property="last_update"/>
+    </resultMap>
+    <select id="getpwdbyname" parameterType="String"  resultMap="staffMap">
+    	select * from staff where username=#{name}
+    </select>
+
+    <insert id="regist" useGeneratedKeys="true" keyProperty="staff_id" parameterType="boot.spring.po.Staff">
+	  insert into staff (username,password,last_update)
+	  values (#{username},#{password},#{last_update})
+	</insert>
+</mapper>
