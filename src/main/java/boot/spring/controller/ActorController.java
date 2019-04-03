@@ -31,7 +31,8 @@ import io.swagger.annotations.ApiOperation;
 public class ActorController {
 	@Autowired
 	private ActorService actorservice;
-	
+
+
 	private static final Logger LOG = LoggerFactory.getLogger(ActorController.class);
 	
 	@ApiOperation("获取所有演员列表")
