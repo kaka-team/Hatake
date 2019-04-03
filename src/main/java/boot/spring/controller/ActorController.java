@@ -4,6 +4,7 @@ import java.io.InputStream;
 import java.util.Date;
 import java.util.List;
 
+import javax.annotation.Resource;
 import javax.servlet.ServletOutputStream;
 import javax.servlet.http.HttpServletResponse;
 
@@ -24,6 +25,8 @@ import boot.spring.po.Actor;
 import boot.spring.service.ActorService;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
+import redis.clients.jedis.JedisCluster;
+import sun.rmi.runtime.Log;
 
 
 @Api(tags = "演员接口")
@@ -31,7 +34,8 @@ import io.swagger.annotations.ApiOperation;
 public class ActorController {
 	@Autowired
 	private ActorService actorservice;
-
+	@Resource
+	private JedisCluster jedisCluster;
 
 	private static final Logger LOG = LoggerFactory.getLogger(ActorController.class);
 	
@@ -46,6 +50,7 @@ public class ActorController {
 		grid.setRowCount(rowCount);
 		grid.setRows(list);
 		grid.setTotal(total);
+		LOG.debug(jedisCluster.get("caokun"));
 		LOG.debug("获取所有演员列表");
 		return grid;
 	}
