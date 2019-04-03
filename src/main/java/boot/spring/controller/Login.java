@@ -1,6 +1,5 @@
 package boot.spring.controller;
 
-import javax.annotation.Resource;
 import javax.servlet.http.HttpSession;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -10,7 +9,6 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 
 import boot.spring.service.LoginService;
-import redis.clients.jedis.JedisCluster;
 
 
 @Controller
