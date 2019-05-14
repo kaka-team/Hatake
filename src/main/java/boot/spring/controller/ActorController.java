@@ -1,32 +1,22 @@
 package boot.spring.controller;
 
-import java.io.InputStream;
-import java.util.Date;
-import java.util.List;
-
-import javax.annotation.Resource;
-import javax.servlet.ServletOutputStream;
-import javax.servlet.http.HttpServletResponse;
-
-import org.apache.poi.util.IOUtils;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Controller;
-import org.springframework.web.bind.annotation.PathVariable;
-import org.springframework.web.bind.annotation.RequestBody;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestMethod;
-import org.springframework.web.bind.annotation.RequestParam;
-import org.springframework.web.bind.annotation.ResponseBody;
-
 import boot.spring.pagemodel.ActorGrid;
 import boot.spring.po.Actor;
 import boot.spring.service.ActorService;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
-import redis.clients.jedis.JedisCluster;
-import sun.rmi.runtime.Log;
+import org.apache.poi.util.IOUtils;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.*;
+
+import javax.servlet.ServletOutputStream;
+import javax.servlet.http.HttpServletResponse;
+import java.io.InputStream;
+import java.util.Date;
+import java.util.List;
 
 
 @Api(tags = "演员接口")
@@ -34,8 +24,6 @@ import sun.rmi.runtime.Log;
 public class ActorController {
 	@Autowired
 	private ActorService actorservice;
-	@Resource
-	private JedisCluster jedisCluster;
 
 	private static final Logger LOG = LoggerFactory.getLogger(ActorController.class);
 	
@@ -50,7 +38,7 @@ public class ActorController {
 		grid.setRowCount(rowCount);
 		grid.setRows(list);
 		grid.setTotal(total);
-		LOG.debug(jedisCluster.get("caokun"));
+		//LOG.debug(jedisCluster.get("caokun"));
 		LOG.debug("获取所有演员列表");
 		return grid;
 	}

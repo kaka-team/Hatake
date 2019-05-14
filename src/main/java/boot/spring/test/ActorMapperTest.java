@@ -3,8 +3,13 @@ package boot.spring.test;
 import boot.spring.Application;
 import boot.spring.dao.ActorDao;
 import boot.spring.dao.LoginDao;
+import boot.spring.mq.Producer;
 import boot.spring.po.Actor;
 import boot.spring.po.Staff;
+import org.apache.ibatis.io.Resources;
+import org.apache.ibatis.session.SqlSession;
+import org.apache.ibatis.session.SqlSessionFactory;
+import org.apache.ibatis.session.SqlSessionFactoryBuilder;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -21,6 +26,8 @@ public class ActorMapperTest {
     private ActorDao actorMapper;
     @Autowired
     private LoginDao loginDao;
+    @Autowired
+    private Producer producer;
     @Test
     public void insertActor() {
         Actor actor = new Actor();
@@ -52,4 +59,25 @@ public class ActorMapperTest {
             e.printStackTrace();
         }
     }
+    @Test
+    public void testMybatis(){
+        try{
+            SqlSessionFactory sf = new SqlSessionFactoryBuilder().build(Resources.getResourceAsStream("mybatis-config.xml"));
+            //获取session对象
+             SqlSession session = sf.openSession();
+             ActorDao actorDao = session.getMapper(ActorDao.class);
+             actorDao.getAllactors();
+             session.close();
+
+
+        }catch (Exception e){
+            e.printStackTrace();
+        }
+    }
+    @Test
+    public void testMq(){
+         producer.sendAll("广播1111");
+    }
+
+
 }

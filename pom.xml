@@ -10,12 +10,12 @@
 		<version>2.0.4.RELEASE</version>
 	</parent>
   <dependencies>
-	  <dependency>
+	  <!--<dependency>
 		  <groupId>org.springframework.boot</groupId>
 		  <artifactId>spring-boot-devtools</artifactId>
 		  <optional>true</optional>
 		  <scope>true</scope>
-	  </dependency>
+	  </dependency>-->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-thymeleaf</artifactId>
@@ -75,7 +75,10 @@
 		  <version>2.9.0</version>
 	  </dependency>
 
-
+	  <dependency>
+		  <groupId>org.springframework.boot</groupId>
+		  <artifactId>spring-boot-starter-amqp</artifactId>
+	  </dependency>
 
   </dependencies>
 		<build>
