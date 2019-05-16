@@ -76,7 +76,10 @@ public class ActorMapperTest {
     }
     @Test
     public void testMq(){
-         producer.sendAll("广播1111");
+        for (int i =0;i<10;i++){
+            producer.sendMsg("广播" + i);
+        }
+
     }
 
 
