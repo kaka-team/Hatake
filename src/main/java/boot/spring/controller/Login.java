@@ -19,7 +19,6 @@ public class Login {
 
 	@RequestMapping(value="/loginvalidate",method=RequestMethod.POST)
 	public String loginvalidate(@RequestParam("username") String username,@RequestParam("password") String pwd,HttpSession httpSession){
-		System.out.println("");
 		if(username==null)
 			return "login";
 		String realpwd=loginservice.getpwdbyname(username);
