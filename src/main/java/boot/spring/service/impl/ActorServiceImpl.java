@@ -4,6 +4,7 @@ import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.List;
 
+import boot.spring.pagemodel.ActorVO;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Isolation;
@@ -36,6 +37,12 @@ public class ActorServiceImpl implements ActorService{
 	public List<Actor> getpageActors(int pagenum, int pagesize) {
 		PageHelper.startPage(pagenum,pagesize);  
 		List<Actor> l=actorMapper.getAllactors();
+		List<ActorVO> lsVo = new ArrayList<> ();
+		for (Actor actor:l) {
+			ActorVO vo = new ActorVO ();
+			vo.setName (actor.getFirst_name ()+actor.getLast_name ());
+			lsVo.add (vo);
+		}
 		return l;
 	}
 

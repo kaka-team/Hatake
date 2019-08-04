@@ -33,6 +33,7 @@ public class ActorController {
 	public ActorGrid getactorlist(@RequestParam(value="current") int current,@RequestParam(value="rowCount") int rowCount){
 		int total=actorservice.getactornum();
 		List<Actor> list=actorservice.getpageActors(current,rowCount);
+		//vo
 		ActorGrid grid=new ActorGrid();
 		grid.setCurrent(current);
 		grid.setRowCount(rowCount);
