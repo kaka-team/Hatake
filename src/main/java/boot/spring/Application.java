@@ -2,18 +2,26 @@ package boot.spring;
 
 import boot.spring.listener.InitListener;
 import org.mybatis.spring.annotation.MapperScan;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.web.servlet.ServletListenerRegistrationBean;
 import org.springframework.context.annotation.Bean;
 import org.springframework.scheduling.annotation.EnableScheduling;
+import redis.clients.jedis.HostAndPort;
+import redis.clients.jedis.JedisCluster;
+import redis.clients.jedis.JedisPoolConfig;
+
+import java.util.HashSet;
+import java.util.Set;
 
 
 @SpringBootApplication
 @MapperScan("boot.spring.dao")
 @EnableScheduling
 public class Application {
-	/*@Bean
+	/*	@Bean
         public JedisCluster JedisClusterFactory() {
             final Logger LOG = LoggerFactory.getLogger(JedisCluster.class);
 
@@ -46,4 +54,6 @@ public class Application {
 		servletListenerRegistrationBean.setListener(new InitListener());
 		return servletListenerRegistrationBean;
 	}
+
+
 }

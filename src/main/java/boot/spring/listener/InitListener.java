@@ -20,7 +20,7 @@ public class InitListener implements ServletContextListener {
 		ApplicationContext context = WebApplicationContextUtils.getWebApplicationContext(sc);
 		SpringContext.setApplicationContext(context);
 		System.out.println("------------开始监听");
-		new Thread(new KafkaConsumer("test12321")).start();
+		//new Thread(new KafkaConsumer("test12321")).start();
 	}
 	@Override
 	public void contextDestroyed(ServletContextEvent sce) {
