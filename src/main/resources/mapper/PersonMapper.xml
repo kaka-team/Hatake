@@ -12,4 +12,28 @@
     <select id="selectAll" resultMap="personMap">
 		select actor_id,first_name,last_name,last_update from actor order by last_update desc
 	</select>
+    <select id="selectByParam" resultMap="personMap" parameterType="boot.spring.po.Person">
+        select actor_id,first_name,last_name,last_update from actor
+        where 1=1
+        <if test="first_name != null">
+            and first_name=#{first_name}
+        </if>
+        <if test="last_name != null">
+            and last_name !=#{last_name}
+        </if>
+        <if test="last_update != null">
+            and last_update=#{last_update}
+        </if>
+    </select>
+    <insert id="insert" useGeneratedKeys="true" keyProperty="actor_id" parameterType="boot.spring.po.Person">
+    insert into actor(first_name,last_name,last_update)
+    values(#{first_name},#{last_name},#{last_update})
+    </insert>
+    <update id="update" parameterType="boot.spring.po.Person">
+        update actor set first_name=#{first_name},last_name=#{last_name},last_update=#{last_update}
+        where actor_id=#{actor_id}
+    </update>
+    <delete id="delete" parameterType="long">
+        delete from actor where actor_id=#{actor_id}
+    </delete>
 </mapper>

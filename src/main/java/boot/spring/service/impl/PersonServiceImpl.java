@@ -24,5 +24,20 @@ public class PersonServiceImpl implements PersonService {
     public List<Person> selectAll() {
         return personDao.selectAll ();
     }
+
+    @Override
+    public int insert(Person person) {
+        return personDao.insert (person);
+    }
+
+    @Override
+    public void update(Person person) {
+         personDao.update (person);
+    }
+
+    @Override
+    public void delete(long actor_id) {
+         personDao.delete (actor_id);
+    }
 }
 

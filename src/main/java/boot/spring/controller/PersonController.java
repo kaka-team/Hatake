@@ -5,10 +5,7 @@ import boot.spring.po.Person;
 import boot.spring.service.PersonService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestMethod;
-import org.springframework.web.bind.annotation.RequestParam;
-import org.springframework.web.bind.annotation.ResponseBody;
+import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
@@ -35,8 +32,24 @@ public class PersonController {
         return personGrid;
     }
 @RequestMapping(value="/showperson",method=RequestMethod.GET)
+@ResponseBody
     public String showperson(){
         return "person";
+}
+@RequestMapping(value = "/person/insert",method = RequestMethod.POST)
+@ResponseBody
+    public int insert(@RequestBody Person person){
+        return personService.insert (person);
+}
+@RequestMapping(value = "/person/update",method = RequestMethod.POST)
+@ResponseBody
+    public void update(@RequestBody Person person){
+        personService.update (person);
+}
+@RequestMapping(value = "/person/delete",method = RequestMethod.POST)
+    @ResponseBody
+    public void delete(@RequestParam long actor_id){
+        personService.delete (actor_id);
 }
 }
 
