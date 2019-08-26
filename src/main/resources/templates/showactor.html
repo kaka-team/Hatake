@@ -126,15 +126,17 @@
   </body>
   <script type="text/javascript">
   $(document).ready(function(){
-  	$("#insertactor").click(function(){
-  		var json={"first_name":$("#fname2").val(),"last_name":$("#lname2").val()};
-		   $.ajax({  
+  	$("#insertactor").click(function(){//点击这个按钮要触发的事情
+  		var json={"first_name":$("#fname2").val(),"last_name":$("#lname2").val()};//从id是fname2和lname2这两个玩意儿里去拿到他们的值
+            //发一个ajax请求，去把这些JSON传到JAVA后台去保存
+		   $.ajax({
             url : "/actors",  
             type : "POST",  
             data : JSON.stringify(json), //转JSON字符串  
             dataType: 'json',  
             contentType:'application/json;charset=UTF-8', //contentType很重要     
-            success : function(result) {  
+            success : function(result) {
+                debugger;
                 alert("添加成功"+JSON.stringify(result));
                 $("#modal fade addmodal").modal("hide");
                 $("#grid-data").bootgrid("reload");
