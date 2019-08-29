@@ -28,12 +28,6 @@ public class ActorController {
 	/*@Autowired
 	JedisCluster jedis;*/
 	private static final Logger LOG = LoggerFactory.getLogger(ActorController.class);
-
-	public static void main(String[] args) {
-		String a = new String("a");
-		String b = "a";
-		System.out.println (a == b);
-	}
 	@ApiOperation("获取所有演员列表")
 	@RequestMapping(value="/actors",method = RequestMethod.GET)
 	@ResponseBody
