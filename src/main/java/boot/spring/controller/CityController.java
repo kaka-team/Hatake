@@ -28,7 +28,7 @@ public class CityController {
 	@RequestMapping("/getcitys")
 	@ResponseBody
 	CityGrid getcitys(@RequestParam("current") int current,@RequestParam("rowCount") int rowCount){
-		/*CityGrid c  = (CityGrid)JSON.parse(jedisCluster.get(cityKey));//先从缓存中查找key对应的数据
+		/*CityGrid c  = (CityGrid)JSON.parse(jedisCluster.get(cityKey));//先从缓存中查找key对应的数据 cityid = key
 		如果缓存中存在，则直接返回查找到的数据
 		if(c != null){
 			return c;
