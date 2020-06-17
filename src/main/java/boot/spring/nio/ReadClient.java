@@ -40,6 +40,7 @@ public class ReadClient {
                                 SelectionKey key = keys.next();//获取key
                                 //如果是有效的
                                 if(key.isValid()){
+                                    System.out.println("----处理服务器端返回消息----");
                                     // 如果为可读状态,读取服务端返回的数据
                                     if(key.isReadable()){
                                         this.read(key);

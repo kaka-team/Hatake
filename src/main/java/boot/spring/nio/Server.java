@@ -36,7 +36,9 @@ public class Server {
         while(bytesRead>0){
             buf.flip();
             while(buf.hasRemaining()){
-                System.out.println((char)buf.get());
+                System.out.print((char)buf.get());
+                System.out.println();
+                sc.write(buf);
             }
             buf.clear();
             bytesRead = sc.read(buf);
@@ -45,6 +47,8 @@ public class Server {
             sc.close();
         }
     }
+
+
     public static void handleWrite(SelectionKey key) throws IOException{
         String info = "I'm info from server";
         ByteBuffer buf = (ByteBuffer)key.attachment();

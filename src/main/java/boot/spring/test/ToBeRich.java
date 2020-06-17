@@ -13,23 +13,26 @@ import java.util.concurrent.ThreadLocalRandom;
 public class ToBeRich {
 
     public static void main(String[] args) {
-            List<Integer> red = new ArrayList<>();
-            List<Integer> blue = new ArrayList<>();
-            while (red.size() < 5) {
-                int a = (int) (Math.random() * 35 + 1);
-                if (!red.contains(a)) {
-                    red.add(a);
-                }
+        cal();
+    }
+    public static void cal(){
+        List<Integer> red = new ArrayList<>();
+        List<Integer> blue = new ArrayList<>();
+        while (red.size() < 5) {
+            int a = (int) (Math.random() * 35 + 1);
+            if (!red.contains(a)) {
+                red.add(a);
             }
-            while (blue.size() < 2) {
-                int b = (int) (Math.random() * 12 + 1);
-                if (!blue.contains(b)) {
-                    blue.add(b);
-                }
+        }
+        while (blue.size() < 2) {
+            int b = (int) (Math.random() * 12 + 1);
+            if (!blue.contains(b)) {
+                blue.add(b);
             }
-            Collections.sort(red);
-            Collections.sort(blue);
-            System.out.print(red);
-            System.out.println(blue);
+        }
+        Collections.sort(red);
+        Collections.sort(blue);
+        System.out.print(red);
+        System.out.println(blue);
     }
 }
