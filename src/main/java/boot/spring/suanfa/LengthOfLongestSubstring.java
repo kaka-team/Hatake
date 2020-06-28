@@ -1,6 +1,8 @@
 package boot.spring.suanfa;
 
+import java.util.HashMap;
 import java.util.HashSet;
+import java.util.Map;
 import java.util.Set;
 
 /**
@@ -12,6 +14,35 @@ import java.util.Set;
  * @create: 2020-05-02 23:44
  **/
 public class LengthOfLongestSubstring {
+
+
+    public static int other(String s){
+        if (s.length()==0) return 0;
+        Map<Character,Integer> map = new HashMap<>();
+        int left = 0;
+        int max = 0;
+        int n = s.length();
+        for(int i = 0 ; i < n;i++){
+            //说明该字符已经出现过，可以把该字符左侧的字符都抛弃
+            if(map.containsKey(s.charAt(i))){
+                //移动窗口左边至上次出现该字符的右侧，刚好排除第一次出现该字符的位置 与 现在的left比较 如果目前left比较大，说明已经越过上次重复的字符，直接覆盖就好
+                // a b b a  n = 3 map(a->0,b->2) 这个时候Left已经指在2了，a等于已经处理过
+                left = Math.max(map.get(s.charAt(i)) + 1,left);
+            }
+            //记录出现的index
+            map.put(s.charAt(i),i);
+            max = Math.max(max,i - left + 1);
+            System.out.println();
+        }
+        return max;
+    }
+
+    public static void main(String[] args) {
+        System.out.println(other("abba"));
+    }
+
+
+
     //a b c a c d a b
     //从a开始向后遍历，直达出现与之前子串重复的  第一轮到abc set存储的是 abc max=3
     //第二轮从b开始，左指针指向b，set里变成了bc，结束时，到bcacd，set存储的是 bcacd max=5
