@@ -30,5 +30,4 @@ public class SortedArrayToBST {
         return root;
     }
 
-
 }
