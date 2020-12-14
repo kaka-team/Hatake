@@ -12,8 +12,8 @@ import java.util.Map;
 public class BuildTree {
     public class TreeNode{
         int val;
-        TreeNode leftNode;
-        TreeNode rightNode;
+        public TreeNode leftNode;
+        public TreeNode rightNode;
         TreeNode(int x){
             val = x;
         }

@@ -1,5 +1,8 @@
 package boot.spring.suanfa.FastAndSlowPointer;
 
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  * @program: SSM
  * @description:给定一个链表，判断链表中是否有环。
@@ -34,6 +37,10 @@ public class HasCycle {
         return true;
     }
 
+    public static void main(String[] args) {
+        List<Integer>  ls = new ArrayList<>();
+        Object[] a = ls.toArray();
+    }
 }
 
 
