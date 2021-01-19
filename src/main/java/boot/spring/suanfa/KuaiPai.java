@@ -71,7 +71,40 @@ public class KuaiPai {
      * @return
      */
     public static int partition(int[] numbers,int start,int end){
-        //将最左边的元素暂时当作pivot
+
+        int i = start;
+        int pivot = numbers[end];
+        for(int j = start; j< end ;j++){
+            if(numbers[j] < pivot){
+                int temp = numbers[i];
+                numbers[i] = numbers[j];
+                numbers[j] = temp;
+                i++;
+            }
+        }
+        int temp = numbers[end];
+        numbers[end] = numbers[i];
+        numbers[i] = temp;
+        return i;
+
+
+
+
+    /*    int pivot = numbers[end];
+        int i = start;
+        for (int j = start ; j< end ;j++){
+            if(numbers[j] < pivot){
+                int temp = numbers[j];
+                numbers[j] = numbers[i];
+                numbers[i] =temp;
+                i++;
+            }
+        }
+        int temp = numbers[end];
+        numbers[end] = numbers[i];
+        numbers[i] = temp;
+        return i;*/
+        /*//将最左边的元素暂时当作pivot
         //[start,i-1]是已经处理的区间，[i,end]是未处理区间，如果小于pivot,放在已处理区间尾部
         int pivot = numbers[end];
         int i  = start;
@@ -91,7 +124,7 @@ public class KuaiPai {
         numbers[i] = temp;
         //此时[i，end）往后都是大于pivot的，所以替换一下i end（pivot） 就可以了
         //新的分割点元素，从新的分割点，分别递归
-        return i;
+        return i;*/
     }
     /**
      * 递推公式:

@@ -68,4 +68,29 @@ public class DetectCycle {
 
 
     }
+
+    public HasCycle.ListNode detectCycle2(HasCycle.ListNode head) {
+        if(head == null || head.next ==null){
+            return null;
+        }
+        HasCycle.ListNode slow = head;
+        HasCycle.ListNode fast = head;
+        while (true){
+            if(fast == null || fast.next == null){
+                return null;
+            }
+            slow = slow.next;
+            fast = fast.next.next;
+            if(slow == fast ){
+                break;
+            }
+        }
+
+        HasCycle.ListNode t = head;
+        while (t != fast){
+            t = t.next;
+            fast = fast.next;
+        }
+        return t;
+    }
 }

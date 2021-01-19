@@ -16,6 +16,31 @@ import java.util.Set;
 public class LengthOfLongestSubstring {
 
 
+
+
+
+    public int maxLength (int[] arr) {
+        Map<Integer,Integer> indexMap = new HashMap<>();
+        int left = 0;
+        int max = 0;
+        for(int i = 0;i < arr.length;i++){
+            //遇到了重复元素，舍弃其左侧所有元素，从当前位置开始
+            if(indexMap.containsKey(arr[i])){
+                //目的还是为了缩小左侧窗口，确保窗口内全是不重复的数字
+                //有可能当前的left 比 再次遇到的重复数字（i）之前的index 大。期间出现了非i的其他数字
+
+                //那么这个时候应该取最大值，若left < index 则说明是left= i的情况
+                left = Math.max(indexMap.get(arr[i]) + 1,left);
+            }
+            indexMap.put(arr[i],i);
+            max = Math.max(max,i - left + 1);
+        }
+        return max;
+    }
+
+
+        //a b c b
+
     public static int other(String s){
         if (s.length()==0) return 0;
         Map<Character,Integer> map = new HashMap<>();
@@ -23,7 +48,7 @@ public class LengthOfLongestSubstring {
         int max = 0;
         int n = s.length();
         for(int i = 0 ; i < n;i++){
-            //说明该字符已经出现过，可以把该字符左侧的字符都抛弃
+            //说明该字符已经出现过，可以把该字符(包括该字符,首次出现的地方)左侧的字符都抛弃，缩小左侧窗口（left,right】
             if(map.containsKey(s.charAt(i))){
                 //移动窗口左边至上次出现该字符的右侧，刚好排除第一次出现该字符的位置 与 现在的left比较 如果目前left比较大，说明已经越过上次重复的字符，直接覆盖就好
                 // a b b a  n = 3 map(a->0,b->2) 这个时候Left已经指在2了，a等于已经处理过

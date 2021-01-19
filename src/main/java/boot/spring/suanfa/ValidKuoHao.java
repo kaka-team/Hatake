@@ -13,6 +13,36 @@ public class ValidKuoHao {
         System.out.println(isValid("{[(]}"));
     }
 
+
+    public static boolean isValid2(String s) {
+        Map<Character,Character> map = new HashMap<>();
+        map.put('}','{');
+        map.put(']','[');
+        map.put(')','(');
+
+        char[] chars = s.toCharArray();
+        Stack<Character> stack = new Stack<>();
+        for(int i = 0; i < chars.length;i++){
+            if(map.containsKey(chars[i])){
+                Character top = stack.pop();
+                if(top.equals(map.get(chars[i]))){
+                    continue;
+                }else{
+                    return false;
+                }
+            }else{
+                stack.push(chars[i]);
+            }
+        }
+        return stack.isEmpty();
+    }
+
+
+
+
+
+
+
     public static boolean isValid(String s) {
         Map<Character,Character> map  = new HashMap<>();
         map.put('}','{');

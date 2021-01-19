@@ -1,15 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/../shopkeeper/shopkeeper-core/src/main/java/com/webuy/shopkeeper/service/activity/core/task/usertask/ActivityUserRecordService.java" description="prizeStatus" line="921" />
-  </component>
   <component name="ChangeListManager">
     <list id="de84afd3-4413-4af3-9c37-265203120cc6" name="none" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <list default="true" id="b2079391-dfc1-4217-a3af-52459cbd3e37" name="Default Changelist" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/huishui/SolveNQueens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_itextpdf_itext_asian_5_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_itextpdf_itextpdf_5_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__e_iceblue_spire_doc_free_3_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__e_iceblue_spire_pdf_free_3_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/AddInList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/BigSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/MostSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/StackToQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/TiaoTaiJie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/TopSmallK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/dongtai/CommonStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/boot/spring/thread/TestGc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_3_14.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SSM.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SSM.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/FastAndSlowPointer/DetectCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/FastAndSlowPointer/DetectCycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/IsPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/IsPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/KuaiPai.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/KuaiPai.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/LengthOfLongestSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/LengthOfLongestSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/LinkList/ReverseList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/LinkList/ReverseList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/MergeTwoLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/MergeTwoLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/ValidKuoHao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/ValidKuoHao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/dongtai/Fib.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/dongtai/Fib.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -153,98 +179,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MergeTwoLists.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/suanfa/MergeTwoLists.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="492">
-              <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BuildTree.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/suanfa/tree/BuildTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="334">
-              <caret line="39" column="18" lean-forward="true" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CoinChange.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/suanfa/dongtai/CoinChange.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SolveNQueens.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/suanfa/huishui/SolveNQueens.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="40" column="19" lean-forward="true" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ArrayList.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="181">
-              <caret line="178" column="34" selection-start-line="178" selection-start-column="34" selection-end-line="178" selection-end-column="34" />
-              <folding>
-                <element signature="e#6283#6284#0" expanded="true" />
-                <element signature="e#6351#6352#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NettyIO.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/nio/NettyIO.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#0#2454#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ReadClient.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/nio/ReadClient.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Server.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/nio/Server.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="26" column="32" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TwoSum.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/suanfa/TwoSum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -259,12 +194,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>actors</find>
-      <find>lname2</find>
-      <find>showacto</find>
-      <find>grid-data</find>
-      <find>insertactor</find>
-      <find>fname2</find>
       <find>model</find>
       <find>state</find>
       <find>nonfairTryAcquire</find>
@@ -289,6 +218,12 @@
       <find>registerBeanPostProcessors</find>
       <find>refreshBeanFactory</find>
       <find>invoke(</find>
+      <find>queryPromotionInfoByPitemId</find>
+      <find>toString</find>
+      <find>notifyall</find>
+      <find>STSong-Light</find>
+      <find>STSon</find>
+      <find>0.75</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -302,42 +237,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/resources/mapper/PersonMapper.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/boot/spring/service/PersonService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/boot/spring/service/impl/PersonServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/boot/spring/controller/PersonController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/boot/spring/controller/CityController.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/static/js/showactor.js" />
-        <option value="$PROJECT_DIR$/src/main/resources/templates/showactor.html" />
-        <option value="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/MergeTwoLists.java" />
-        <option value="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/ReverseNum.java" />
-        <option value="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/IsPalindrome.java" />
-        <option value="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/tree/SingleNumber.java" />
-        <option value="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/ValidKuoHao.java" />
-        <option value="$PROJECT_DIR$/src/main/java/boot/spring/test/ToBeRich.java" />
-        <option value="$PROJECT_DIR$/src/main/java/boot/spring/nio/Client.java" />
-        <option value="$PROJECT_DIR$/src/main/java/boot/spring/nio/ReadClient.java" />
-        <option value="$PROJECT_DIR$/src/main/java/boot/spring/nio/WriteClient.java" />
-        <option value="$PROJECT_DIR$/src/main/java/boot/spring/nio/Server.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/src/main/java/boot/spring/thread/ParkTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/boot/spring/thread/ConditionTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/boot/spring/thread/InteruptTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/LengthOfLongestSubstring.java" />
-        <option value="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/FastAndSlowPointer/HasCycle.java" />
-        <option value="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/FastAndSlowPointer/isHappy.java" />
-        <option value="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/LinkList/AddTwoNumbers.java" />
-        <option value="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/LinkList/RemoveNthFromEnd.java" />
-        <option value="$PROJECT_DIR$/src/main/java/boot/spring/test/ReentrantReadWriteLockTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/boot/spring/pointcut/TestCk.java" />
-        <option value="$PROJECT_DIR$/src/main/java/boot/spring/pointcut/CkAop.java" />
-        <option value="$PROJECT_DIR$/src/main/java/boot/spring/test/AopTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/boot/spring/test/AppConfig.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/logback.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/boot/spring/pointcut/CkAopAspect.java" />
-        <option value="$PROJECT_DIR$/src/main/java/boot/spring/pointcut/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/boot/spring/pointcut/UserService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/boot/spring/pointcut/Person.java" />
         <option value="$PROJECT_DIR$/src/main/java/boot/spring/pointcut/AopTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/boot/spring/pointcut/CkBeanFactoryPostProcessor.java" />
         <option value="$PROJECT_DIR$/src/main/java/boot/spring/pointcut/CkBeanPostProcessor.java" />
@@ -345,14 +244,50 @@
         <option value="$PROJECT_DIR$/src/main/java/boot/spring/pointcut/User.java" />
         <option value="$PROJECT_DIR$/src/main/java/boot/spring/spring/CkBeanFactoryPostProcessor.java" />
         <option value="$PROJECT_DIR$/src/main/java/boot/spring/spring/AopTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/tree/BuildTree.java" />
         <option value="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/tree/SortedArrayToBST.java" />
         <option value="$PROJECT_DIR$/src/main/java/boot/spring/spring/CkBeanPostProcessor.java" />
         <option value="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/Fib.java" />
-        <option value="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/dongtai/Fib.java" />
         <option value="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/dongtai/LengthOfLIS.java" />
         <option value="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/dongtai/CoinChange.java" />
         <option value="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/huishui/SolveNQueens.java" />
+        <option value="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/tree/BuildTree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/BFS/MinDepth.java" />
+        <option value="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/dongtai/Beibao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/FindRepeatNumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/DecodeString.java" />
+        <option value="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/LRUCache.java" />
+        <option value="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/FastAndSlowPointer/HasCycle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/ErFen.java" />
+        <option value="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/MostLittleK.java" />
+        <option value="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/ReverseNum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/tree/BianLi.java" />
+        <option value="$PROJECT_DIR$/src/main/java/boot/spring/pdf/MoneyUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/boot/spring/pdf/DocxUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/boot/spring/pdf/WordToPDF.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/boot/spring/pdf/PDFUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/boot/spring/pdf/GeneratePDFUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/boot/spring/pdf/PDFExportUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/boot/spring/pdf/PDFLoadUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/LinkList/RemoveNthFromEnd.java" />
+        <option value="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/tree/LevelOrder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/StackToQueue.java" />
+        <option value="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/LengthOfLongestSubstring.java" />
+        <option value="$PROJECT_DIR$/src/main/java/boot/spring/thread/TestGc.java" />
+        <option value="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/TopSmallK.java" />
+        <option value="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/dongtai/Fib.java" />
+        <option value="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/MergeTwoLists.java" />
+        <option value="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/TiaoTaiJie.java" />
+        <option value="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/ValidKuoHao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/FastAndSlowPointer/DetectCycle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/IsPalindrome.java" />
+        <option value="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/LongestSonList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/MostSum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/dongtai/CommonStr.java" />
+        <option value="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/KuaiPai.java" />
+        <option value="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/LinkList/ReverseList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/AddInList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/boot/spring/suanfa/BigSum.java" />
       </list>
     </option>
   </component>
@@ -366,7 +301,6 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
-        <option name="userSettingsFile" value="D:\settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
@@ -382,6 +316,11 @@
           <item name="SSM" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="SSM" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
       </expand>
       <select />
     </treeState>
@@ -389,7 +328,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="821" />
@@ -402,9 +341,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -445,7 +381,26 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hatake" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
               <item name="suanfa" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hatake" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="suanfa" type="462c0819:PsiDirectoryNode" />
+              <item name="BFS" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SSM" type="b2602c69:ProjectViewProjectNode" />
@@ -485,96 +440,41 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="spring" type="462c0819:PsiDirectoryNode" />
               <item name="suanfa" type="462c0819:PsiDirectoryNode" />
-              <item name="tree" type="462c0819:PsiDirectoryNode" />
+              <item name="LinkList" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hatake" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SSM" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="SSM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework:spring-aop:5.0.8.RELEASE" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="SSM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework:spring-aop:5.0.8.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-aop-5.0.8.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SSM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework:spring-aop:5.0.8.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-aop-5.0.8.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="org" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SSM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework:spring-aop:5.0.8.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-aop-5.0.8.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="org" type="462c0819:PsiDirectoryNode" />
-              <item name="aop" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SSM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework:spring-aop:5.0.8.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-aop-5.0.8.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="org" type="462c0819:PsiDirectoryNode" />
-              <item name="aop" type="462c0819:PsiDirectoryNode" />
-              <item name="framework" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SSM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework:spring-context:5.0.8.RELEASE" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="SSM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework:spring-context:5.0.8.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-context-5.0.8.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SSM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework:spring-context:5.0.8.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-context-5.0.8.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="springframework" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SSM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework:spring-context:5.0.8.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-context-5.0.8.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="springframework" type="462c0819:PsiDirectoryNode" />
-              <item name="context" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SSM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework:spring-context:5.0.8.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-context-5.0.8.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="springframework" type="462c0819:PsiDirectoryNode" />
-              <item name="context" type="462c0819:PsiDirectoryNode" />
-              <item name="support" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelOrder2" value="2" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RequestMappingsPanelWidth2" value="75" />
-    <property name="SearchEverywhereHistoryKey" value="Threadlocal&#9;PSI&#9;JAVA://java.lang.ThreadLocal&#10;InitializingBean&#9;PSI&#9;JAVA://org.springframework.beans.factory.InitializingBean&#10;Tobe&#9;FILE&#9;file:///Users/admin/IdeaProjects/Hatake/src/main/java/boot/spring/test/ToBeRich.java&#10;JdkDynamicAopProxy&#9;PSI&#9;JAVA://org.springframework.aop.framework.JdkDynamicAopProxy&#10;AspectJAutoProxyRegistrar&#9;FILE&#9;jar:///Users/admin/.m2/repository/org/springframework/spring-context/5.0.8.RELEASE/spring-context-5.0.8.RELEASE.jar!/org/springframework/context/annotation/AspectJAutoProxyRegistrar.class&#10;AnnotationConfigApplicationContext&#9;PSI&#9;JAVA://org.springframework.context.annotation.AnnotationConfigApplicationContext&#10;SmartInstantiationAwareBeanPostProcessor&#9;PSI&#9;JAVA://org.springframework.beans.factory.config.SmartInstantiationAwareBeanPostProcessor&#10;AbstractAutoProxyCreator&#9;PSI&#9;JAVA://org.springframework.aop.framework.autoproxy.AbstractAutoProxyCreator&#10;R&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/Runnable.java&#10;Produ&#9;FILE&#9;file:///Users/admin/IdeaProjects/Hatake/src/main/java/boot/spring/test/MsgProducer.java&#10;Kaf&#9;FILE&#9;file:///Users/admin/IdeaProjects/Hatake/src/main/java/boot/spring/kafka/KafkaMessageProcessor.java&#10;BeanNameUrlHandlerMapping&#9;PSI&#9;JAVA://org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping&#10;SimpleUrlHandlerMapping&#9;FILE&#9;jar:///Users/admin/.m2/repository/org/springframework/spring-webmvc/5.0.8.RELEASE/spring-webmvc-5.0.8.RELEASE.jar!/org/springframework/web/servlet/handler/SimpleUrlHandlerMapping.class&#10;AbstractHandlerMapping&#9;FILE&#9;jar:///Users/admin/.m2/repository/org/springframework/spring-webmvc/5.0.8.RELEASE/spring-webmvc-5.0.8.RELEASE.jar!/org/springframework/web/servlet/handler/AbstractHandlerMapping.class&#10;ApplicationObjectSupport&#9;PSI&#9;JAVA://org.springframework.context.support.ApplicationObjectSupport&#10;DispatcherServlet&#9;PSI&#9;JAVA://org.springframework.web.servlet.DispatcherServlet&#10;ReentrantLock&#9;PSI&#9;JAVA://java.util.concurrent.locks.ReentrantLock&#10;redis&#9;PSI&#9;JAVA://redis.clients.util.RedisInputStream&#10;application&#9;FILE&#9;file:///Users/ly/Downloads/Hatake/src/main/resources/application.properties" />
+    <property name="SearchEverywhereHistoryKey" value="Hashmap&#9;PSI&#9;JAVA://java.util.HashMap&#10;Tobe&#9;FILE&#9;file:///Users/admin/IdeaProjects/Hatake/src/main/java/boot/spring/test/ToBeRich.java&#10;Tob&#9;FILE&#9;file:///Users/admin/IdeaProjects/Hatake/src/main/java/boot/spring/test/ToBeRich.java&#10;Object&#9;PSI&#9;JAVA://java.lang.Object&#10;To&#9;FILE&#9;file:///Users/admin/IdeaProjects/Hatake/src/main/java/boot/spring/test/ToBeRich.java&#10;Threadlocal&#9;PSI&#9;JAVA://java.lang.ThreadLocal&#10;InitializingBean&#9;PSI&#9;JAVA://org.springframework.beans.factory.InitializingBean&#10;JdkDynamicAopProxy&#9;PSI&#9;JAVA://org.springframework.aop.framework.JdkDynamicAopProxy&#10;AspectJAutoProxyRegistrar&#9;FILE&#9;jar:///Users/admin/.m2/repository/org/springframework/spring-context/5.0.8.RELEASE/spring-context-5.0.8.RELEASE.jar!/org/springframework/context/annotation/AspectJAutoProxyRegistrar.class&#10;AnnotationConfigApplicationContext&#9;PSI&#9;JAVA://org.springframework.context.annotation.AnnotationConfigApplicationContext&#10;SmartInstantiationAwareBeanPostProcessor&#9;PSI&#9;JAVA://org.springframework.beans.factory.config.SmartInstantiationAwareBeanPostProcessor&#10;AbstractAutoProxyCreator&#9;PSI&#9;JAVA://org.springframework.aop.framework.autoproxy.AbstractAutoProxyCreator&#10;R&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/Runnable.java&#10;Produ&#9;FILE&#9;file:///Users/admin/IdeaProjects/Hatake/src/main/java/boot/spring/test/MsgProducer.java&#10;Kaf&#9;FILE&#9;file:///Users/admin/IdeaProjects/Hatake/src/main/java/boot/spring/kafka/KafkaMessageProcessor.java&#10;BeanNameUrlHandlerMapping&#9;PSI&#9;JAVA://org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping&#10;SimpleUrlHandlerMapping&#9;FILE&#9;jar:///Users/admin/.m2/repository/org/springframework/spring-webmvc/5.0.8.RELEASE/spring-webmvc-5.0.8.RELEASE.jar!/org/springframework/web/servlet/handler/SimpleUrlHandlerMapping.class&#10;AbstractHandlerMapping&#9;FILE&#9;jar:///Users/admin/.m2/repository/org/springframework/spring-webmvc/5.0.8.RELEASE/spring-webmvc-5.0.8.RELEASE.jar!/org/springframework/web/servlet/handler/AbstractHandlerMapping.class&#10;ApplicationObjectSupport&#9;PSI&#9;JAVA://org.springframework.context.support.ApplicationObjectSupport&#10;DispatcherServlet&#9;PSI&#9;JAVA://org.springframework.web.servlet.DispatcherServlet&#10;ReentrantLock&#9;PSI&#9;JAVA://java.util.concurrent.locks.ReentrantLock&#10;redis&#9;PSI&#9;JAVA://redis.clients.util.RedisInputStream&#10;application&#9;FILE&#9;file:///Users/ly/Downloads/Hatake/src/main/resources/application.properties" />
     <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -588,8 +488,8 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Confirmation" />
+    <property name="project.structure.side.proportion" value="0.35617673" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -611,6 +511,7 @@
       <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
       <recent name="$PROJECT_DIR$/src/main/resources/static/img" />
       <recent name="$PROJECT_DIR$/src/test" />
     </key>
@@ -627,13 +528,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SolveNQueens">
-    <configuration name="CoinChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="boot.spring.suanfa.dongtai.CoinChange" />
+  <component name="RunManager" selected="Application.BigSum">
+    <configuration name="BigSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="boot.spring.suanfa.BigSum" />
       <module name="SSM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="boot.spring.suanfa.dongtai.*" />
+          <option name="PATTERN" value="boot.spring.suanfa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="IsPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="boot.spring.suanfa.IsPalindrome" />
+      <module name="SSM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="boot.spring.suanfa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="MergeTwoLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="boot.spring.suanfa.MergeTwoLists" />
+      <module name="SSM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="boot.spring.suanfa.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -644,26 +565,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="boot.spring.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="SolveNQueens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="boot.spring.suanfa.huishui.SolveNQueens" />
-      <module name="SSM" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="boot.spring.suanfa.huishui.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="SortedArrayToBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="boot.spring.suanfa.tree.SortedArrayToBST" />
-      <module name="SSM" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="boot.spring.suanfa.tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -687,18 +588,18 @@
     <list>
       <item itemvalue="Spring Boot.Application" />
       <item itemvalue="Application.ToBeRich" />
-      <item itemvalue="Application.SortedArrayToBST" />
-      <item itemvalue="Application.CoinChange" />
       <item itemvalue="Application.ShuangSeQiu" />
-      <item itemvalue="Application.SolveNQueens" />
+      <item itemvalue="Application.MergeTwoLists" />
+      <item itemvalue="Application.IsPalindrome" />
+      <item itemvalue="Application.BigSum" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SolveNQueens" />
+        <item itemvalue="Application.BigSum" />
         <item itemvalue="Application.ToBeRich" />
         <item itemvalue="Application.ShuangSeQiu" />
-        <item itemvalue="Application.CoinChange" />
-        <item itemvalue="Application.SortedArrayToBST" />
+        <item itemvalue="Application.IsPalindrome" />
+        <item itemvalue="Application.MergeTwoLists" />
       </list>
     </recent_temporary>
   </component>
@@ -752,7 +653,58 @@
       <workItem from="1596263704115" duration="319000" />
       <workItem from="1596439657667" duration="28000" />
       <workItem from="1596597690092" duration="5248000" />
-      <workItem from="1596726037631" duration="6838000" />
+      <workItem from="1596726037631" duration="9496000" />
+      <workItem from="1597035523013" duration="1590000" />
+      <workItem from="1597156926724" duration="4751000" />
+      <workItem from="1597221283323" duration="46000" />
+      <workItem from="1597289493956" duration="600000" />
+      <workItem from="1597480631094" duration="147000" />
+      <workItem from="1597664145438" duration="4891000" />
+      <workItem from="1600349069058" duration="15006000" />
+      <workItem from="1601721650386" duration="2061000" />
+      <workItem from="1602070783662" duration="1744000" />
+      <workItem from="1602313860376" duration="2382000" />
+      <workItem from="1605515829741" duration="102000" />
+      <workItem from="1605577234482" duration="2076000" />
+      <workItem from="1606127240611" duration="314000" />
+      <workItem from="1606128541618" duration="330000" />
+      <workItem from="1606204303876" duration="147000" />
+      <workItem from="1606204750500" duration="68000" />
+      <workItem from="1606473032821" duration="252000" />
+      <workItem from="1606996358972" duration="3337000" />
+      <workItem from="1607163796485" duration="89000" />
+      <workItem from="1607336355455" duration="62000" />
+      <workItem from="1607428369374" duration="5549000" />
+      <workItem from="1607478595424" duration="762000" />
+      <workItem from="1607507269581" duration="24580000" />
+      <workItem from="1607861689932" duration="4398000" />
+      <workItem from="1607910648261" duration="62000" />
+      <workItem from="1607941543505" duration="13670000" />
+      <workItem from="1608004750271" duration="17999000" />
+      <workItem from="1608102687828" duration="207000" />
+      <workItem from="1608111313980" duration="47000" />
+      <workItem from="1608345961843" duration="209000" />
+      <workItem from="1608372953979" duration="5140000" />
+      <workItem from="1608515749961" duration="3499000" />
+      <workItem from="1608539049845" duration="61000" />
+      <workItem from="1608539130924" duration="260000" />
+      <workItem from="1608646057827" duration="977000" />
+      <workItem from="1608796909566" duration="4578000" />
+      <workItem from="1609151209726" duration="84000" />
+      <workItem from="1609158516680" duration="6791000" />
+      <workItem from="1609309336595" duration="3135000" />
+      <workItem from="1546300989263" duration="598000" />
+      <workItem from="1609596889463" duration="301000" />
+      <workItem from="1609683018516" duration="337000" />
+      <workItem from="1609726022303" duration="597000" />
+      <workItem from="1609853387035" duration="20451000" />
+      <workItem from="1610076979956" duration="13825000" />
+      <workItem from="1610157799325" duration="596000" />
+      <workItem from="1610282346125" duration="6691000" />
+      <workItem from="1610445903563" duration="7209000" />
+      <workItem from="1610503229396" duration="10884000" />
+      <workItem from="1610675620568" duration="13849000" />
+      <workItem from="1611021463558" duration="9202000" />
     </task>
     <task id="LOCAL-00001" summary="123">
       <created>1560573003008</created>
@@ -852,7 +804,28 @@
       <option name="project" value="LOCAL" />
       <updated>1594052003958</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="update">
+      <created>1596770313150</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1596770313150</updated>
+    </task>
+    <task id="LOCAL-00016" summary="update">
+      <created>1607945202262</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1607945202262</updated>
+    </task>
+    <task id="LOCAL-00017" summary="update">
+      <created>1608533915666</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1608533915666</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -888,7 +861,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="217402000" />
+    <option name="totallyTimeSpent" value="436603000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -900,12 +873,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="821" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="821" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="5" weight="0.15014368" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.30028737" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
       <window_info id="Capture Tool" order="7" />
       <window_info id="Designer" order="2" />
@@ -913,7 +885,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="5" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.30662984" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2596685" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3295129" />
       <window_info anchor="bottom" id="Messages" order="9" weight="0.25" />
       <window_info anchor="right" id="aiXcoder" order="7" side_tool="true" />
@@ -922,10 +894,10 @@
       <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.3295129" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Version Control" order="14" weight="0.40607736" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.30801105" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29558012" />
       <window_info anchor="bottom" id="Spring" order="7" weight="0.3295129" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.25414366" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24856322" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32255748" />
       <window_info anchor="bottom" id="Problems" order="11" weight="0.3295129" />
       <window_info anchor="right" id="Bean Validation" order="9" />
       <window_info id="Web" order="8" side_tool="true" />
@@ -937,7 +909,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info id="JRebel" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32872927" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="JRebel Console" order="16" side_tool="true" />
@@ -948,7 +920,7 @@
       <window_info id="JRebel" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Spring" order="7" weight="0.3295129" />
       <window_info id="Image Layers" order="4" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.40603566" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.37707183" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="5" />
@@ -958,18 +930,18 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.2510288" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3295129" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="aiXcoder" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Problems" order="11" weight="0.3295129" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.3295129" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="14" weight="0.40607736" />
-      <window_info anchor="right" id="Maven Projects" order="5" visible="true" weight="0.15014368" />
-      <window_info anchor="bottom" id="JRebel Console" order="16" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="5" visible="true" weight="0.27945402" />
       <window_info anchor="bottom" id="JRebel Executor" order="15" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28879312" />
-      <window_info anchor="right" id="aiXcoder" order="7" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22916667" />
+      <window_info anchor="bottom" id="JRebel Console" order="16" side_tool="true" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info id="Web" order="8" side_tool="true" />
@@ -978,9 +950,9 @@
       <window_info anchor="right" id="JRebel Setup Guide" order="11" weight="0.3297568" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32872927" />
       <window_info anchor="right" id="Bean Validation" order="10" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.44444445" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.20856354" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1040,8 +1012,14 @@
           <properties />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/boot/spring/pdf/PDFLoadUtil.java</url>
+          <line>102</line>
+          <properties />
+          <option name="timeStamp" value="155" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="121" />
+      <option name="time" value="181" />
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
@@ -1054,264 +1032,69 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.8.RELEASE/spring-core-5.0.8.RELEASE.jar!/org/springframework/cglib/proxy/MethodProxy.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/pdf/PDFExportUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="100" column="21" selection-start-line="100" selection-start-column="21" selection-end-line="100" selection-end-column="21" />
+        <state relative-caret-position="615">
+          <caret line="41" column="65" selection-start-line="41" selection-start-column="65" selection-end-line="41" selection-end-column="65" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/javax/management/openmbean/CompositeDataInvocationHandler.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-19">
-          <caret line="93" column="37" selection-start-line="93" selection-start-column="37" selection-end-line="93" selection-end-column="37" />
+        <state relative-caret-position="2175">
+          <caret line="145" column="34" selection-start-line="145" selection-start-column="34" selection-end-line="145" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.0.8.RELEASE/spring-aop-5.0.8.RELEASE.jar!/org/springframework/aop/framework/JdkDynamicAopProxy.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="97" column="26" lean-forward="true" selection-start-line="97" selection-start-column="26" selection-end-line="97" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.0.8.RELEASE/spring-beans-5.0.8.RELEASE.jar!/org/springframework/beans/factory/config/BeanPostProcessor.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.0.8.RELEASE/spring-aop-5.0.8.RELEASE.jar!/org/springframework/aop/support/AopUtils.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-120">
-          <caret line="161" column="32" selection-start-line="161" selection-start-column="32" selection-end-line="161" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.0.8.RELEASE/spring-aop-5.0.8.RELEASE.jar!/org/springframework/aop/framework/autoproxy/AbstractAdvisorAutoProxyCreator.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="39" column="50" selection-start-line="39" selection-start-column="50" selection-end-line="39" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.0.8.RELEASE/spring-aop-5.0.8.RELEASE.jar!/org/springframework/aop/framework/CglibAopProxy.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="65" column="11" selection-start-line="65" selection-start-column="11" selection-end-line="65" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.0.8.RELEASE/spring-aop-5.0.8.RELEASE.jar!/org/springframework/aop/framework/ObjenesisCglibAopProxy.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.0.8.RELEASE/spring-aop-5.0.8.RELEASE.jar!/org/springframework/aop/framework/DefaultAopProxyFactory.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/suanfa/LRUCache.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.0.8.RELEASE/spring-aop-5.0.8.RELEASE.jar!/org/springframework/aop/framework/AopProxyFactory.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/pdf/PDFLoadUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.0.8.RELEASE/spring-aop-5.0.8.RELEASE.jar!/org/springframework/aop/framework/ProxyFactory.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="48" column="75" selection-start-line="48" selection-start-column="75" selection-end-line="48" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.0.8.RELEASE/spring-aop-5.0.8.RELEASE.jar!/org/springframework/aop/framework/ProxyCreatorSupport.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="65" column="30" selection-start-line="65" selection-start-column="30" selection-end-line="65" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.0.8.RELEASE/spring-beans-5.0.8.RELEASE.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="694" selection-start-line="694" selection-end-line="694" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.0.8.RELEASE/spring-aop-5.0.8.RELEASE.jar!/org/springframework/aop/framework/autoproxy/AbstractAutoProxyCreator.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="126" column="63" lean-forward="true" selection-start-line="126" selection-start-column="63" selection-end-line="126" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.0.8.RELEASE/spring-beans-5.0.8.RELEASE.jar!/org/springframework/beans/factory/BeanNameAware.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/spring/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="25" column="44" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/spring/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/spring/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/aspectj/aspectjrt/1.8.13/aspectjrt-1.8.13.jar!/org/aspectj/lang/annotation/Aspect.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/spring/CkAopAspect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#603#604#0" expanded="true" />
-            <element signature="e#666#667#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/spring/TestCk.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="30" lean-forward="true" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/spring/AppConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        <state relative-caret-position="-10">
+          <caret line="57" column="34" selection-start-line="57" selection-start-column="32" selection-end-line="57" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/spring/CkBeanFactoryPostProcessor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/spring/AopTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52755">
-          <caret line="3588" column="21" selection-start-line="3588" selection-start-column="12" selection-end-line="3588" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/suanfa/tree/SingleNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/suanfa/tree/SortedArrayToBST.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/spring/CkBeanPostProcessor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="58" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.0.8.RELEASE/spring-beans-5.0.8.RELEASE.jar!/org/springframework/beans/factory/config/InstantiationAwareBeanPostProcessor.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.0.8.RELEASE/spring-beans-5.0.8.RELEASE.jar!/org/springframework/beans/factory/InitializingBean.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/suanfa/dongtai.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/suanfa/ReverseNum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/ThreadLocal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="307" column="48" selection-start-line="307" selection-start-column="35" selection-end-line="307" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/test/ShuangSeQiu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="28" column="38" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/suanfa/ValidKuoHao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="556">
-          <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/suanfa/FastAndSlowPointer/HasCycle.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/thread/ThreadTest2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/suanfa/FastAndSlowPointer/isHappy.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/thread/ParkTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        <state relative-caret-position="120">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/suanfa/tree/BianLi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/suanfa/tree/LevelOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="46" column="9" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/thread/ConditionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1322,24 +1105,65 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/suanfa/dongtai/LengthOfLIS.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/thread/ThreadTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+        <state relative-caret-position="150">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/thread/InteruptTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/thread/TestGc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/suanfa/LinkList/RemoveNthFromEnd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/suanfa/LengthOfLongestSubstring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/suanfa/tree/IsSonTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="42" column="19" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+        <state relative-caret-position="70">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/suanfa/TwoSum.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/PriorityQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+        <state relative-caret-position="225">
+          <caret line="162" column="11" selection-start-line="162" selection-start-column="11" selection-end-line="162" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/suanfa/TopSmallK.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="4" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1352,31 +1176,122 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/nio/ReadClient.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/nio/WriteClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        <state relative-caret-position="50">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/nio/Server.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="26" column="32" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
+        <state relative-caret-position="-379">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/nio/ReadClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="46" column="37" lean-forward="true" selection-start-line="46" selection-start-column="37" selection-end-line="46" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/suanfa/MostLittleK.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/suanfa/dongtai/Fib.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        <state relative-caret-position="450">
+          <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/suanfa/TiaoTaiJie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="61" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="14" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/suanfa/FastAndSlowPointer/HasCycle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="30" column="50" selection-start-line="30" selection-start-column="50" selection-end-line="30" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/suanfa/FastAndSlowPointer/isHappy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/suanfa/FastAndSlowPointer/DetectCycle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1035">
+          <caret line="70" selection-start-line="70" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/suanfa/IsPalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="46" column="10" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
+          <folding>
+            <element signature="e#614#615#0" expanded="true" />
+            <element signature="e#663#664#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/suanfa/MergeTwoLists.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/test/ShuangSeQiu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/suanfa/ValidKuoHao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="36" column="31" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/controller/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/controller/IndexController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/test/ToBeRich.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+        <state relative-caret-position="285">
+          <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
           <folding>
             <element signature="e#313#314#0" expanded="true" />
             <element signature="e#334#335#0" expanded="true" />
@@ -1384,44 +1299,116 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/suanfa/MergeTwoLists.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/suanfa/LongestSonList.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/suanfa/BFS/MinDepth.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="492">
-          <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+        <state relative-caret-position="435">
+          <caret line="33" column="42" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/suanfa/tree/BuildTree.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/suanfa/dongtai/LengthOfLIS.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="39" column="18" lean-forward="true" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
+        <state relative-caret-position="330">
+          <caret line="22" column="60" selection-start-line="22" selection-start-column="56" selection-end-line="22" selection-end-column="60" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/suanfa/dongtai/CoinChange.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/suanfa/DecodeString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        <state relative-caret-position="255">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/suanfa/FindRepeatNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="178" column="34" selection-start-line="178" selection-start-column="34" selection-end-line="178" selection-end-column="34" />
-          <folding>
-            <element signature="e#6283#6284#0" expanded="true" />
-            <element signature="e#6351#6352#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="180">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/suanfa/TwoSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/suanfa/huishui/SolveNQueens.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="40" column="19" lean-forward="true" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
+        <state relative-caret-position="150">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/suanfa/MostSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/suanfa/dongtai/CommonStr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/suanfa/KuaiPai.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1305">
+          <caret line="87" column="17" selection-start-line="87" selection-start-column="17" selection-end-line="87" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/suanfa/StackToQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="181" column="57" selection-start-line="181" selection-start-column="8" selection-end-line="181" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/suanfa/AddInList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="824">
+          <caret line="81" column="44" lean-forward="true" selection-start-line="81" selection-start-column="44" selection-end-line="81" selection-end-column="44" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#408#409#0" expanded="true" />
+            <element signature="e#446#447#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/suanfa/LinkList/ReverseList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="655" column="16" selection-start-line="655" selection-start-column="16" selection-end-line="655" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/boot/spring/suanfa/BigSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="57" column="39" selection-start-line="57" selection-start-column="39" selection-end-line="57" selection-end-column="39" />
+          <folding>
+            <element signature="e#290#291#0" expanded="true" />
+            <element signature="e#356#357#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1429,6 +1416,30 @@
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.35617673" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
           <splitter-proportions>
@@ -1452,6 +1463,19 @@
           </splitter-proportions>
         </settings>
       </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>SSM</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.35617673" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
@@ -1466,10 +1490,11 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: io.springfox:springfox-swagger-common:2.2.2</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.35617673" />
               </list>
             </option>
           </splitter-proportions>
